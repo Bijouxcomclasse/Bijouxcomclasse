@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+<p align="center">
+  <img class="logo" src="./Logo.jpeg" width="60%">
+  </p>
